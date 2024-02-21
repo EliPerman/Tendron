@@ -3,6 +3,7 @@ public void setup()
   size(500, 500);  
   background(255);
   noLoop();
+  colorMode(HSB);
 }
 
 public void draw()
